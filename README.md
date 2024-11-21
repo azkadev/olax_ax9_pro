@@ -100,3 +100,8 @@ dan modem tidak dapat dihidupkan. Akan lebih baik untuk menambahkan dioda ke cat
 
 ![](assets/kosaksoa.png)
 ![](assets/skasao.png)
+
+
+## Fix Koneksi wifi putus nyambung
+
+![](assets/fix_connection.png)
