@@ -94,3 +94,9 @@ dan modem tidak dapat dihidupkan. Akan lebih baik untuk menambahkan dioda ke cat
 
 ![](assets/auto_start_without_baterai.png)
 ![](assets/auto_start_without_baterai_detail.png)
+
+
+# Gambar
+
+![](assets/kosaksoa.png)
+![](assets/skasao.png)
