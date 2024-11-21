@@ -88,3 +88,9 @@ Jika ada yang tertarik: lakukan autostart sendiri
 Kapasitor elektrolit 10 uF/16 volt, negatif di sebelah kanan. Bekerja.
 UPD: diganti dengan 0,47 uF, karena... Jika terjadi pemadaman listrik yang sangat singkat, tidak ada waktu untuk habis
 dan modem tidak dapat dihidupkan. Akan lebih baik untuk menambahkan dioda ke catu daya, tetapi cara kerjanya seperti itu.
+
+
+# modif autostart tanpa baterai
+
+![](assets/auto_start_without_baterai.png)
+![](assets/auto_start_without_baterai_detail.png)
