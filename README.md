@@ -105,3 +105,5 @@ dan modem tidak dapat dihidupkan. Akan lebih baik untuk menambahkan dioda ke cat
 ## Fix Koneksi wifi putus nyambung
 
 ![](assets/fix_connection.png)
+
+https://4pda.to/forum/index.php?act=Print&client=printer&f=917&t=1077472
